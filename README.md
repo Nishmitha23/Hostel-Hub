@@ -20,7 +20,11 @@ It offers an intuitive interface for users and powerful tools for admins — com
 🛠️ Tech Stack:
 
 Frontend-HTML, CSS, JavaScript (Bootstrap/Tailwind optional)
+
 Backend-Node.js, Express.js
+
 Database-MongoDB (via Mongoose ORM)
+
 Security-bcrypt, JSON Web Tokens (JWT)
+
 Environment-dotenv for configuration
